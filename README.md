@@ -14,4 +14,4 @@
   - [后端](https://github.com/TianXuan-Chain/thanos-browser-backend)
 - [天玄链应用Demo](https://github.com/TianXuan-Chain/thanos-demo)
 ## 文档
-- [天玄链技术文档](https://github.com/TianXuan-Chain/tianxuan-docs)
+- [天玄链技术文档](https://github.com/TianXuan-Chain/tianxuan-docs) - ([在线浏览](https://tianxuan.blockchain.163.com/))
